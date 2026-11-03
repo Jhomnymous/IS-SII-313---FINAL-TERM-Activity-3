@@ -1,0 +1,10 @@
+C:\Users\deleo\Desktop\LoginRegisterApp\bin\Debug\net48\LoginRegisterApp.exe.config
+C:\Users\deleo\Desktop\LoginRegisterApp\bin\Debug\net48\LoginRegisterApp.exe
+C:\Users\deleo\Desktop\LoginRegisterApp\bin\Debug\net48\LoginRegisterApp.pdb
+C:\Users\deleo\Desktop\LoginRegisterApp\obj\Debug\net48\LoginRegisterApp.csproj.AssemblyReference.cache
+C:\Users\deleo\Desktop\LoginRegisterApp\obj\Debug\net48\LoginRegisterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deleo\Desktop\LoginRegisterApp\obj\Debug\net48\LoginRegisterApp.AssemblyInfoInputs.cache
+C:\Users\deleo\Desktop\LoginRegisterApp\obj\Debug\net48\LoginRegisterApp.AssemblyInfo.cs
+C:\Users\deleo\Desktop\LoginRegisterApp\obj\Debug\net48\LoginRegisterApp.csproj.CoreCompileInputs.cache
+C:\Users\deleo\Desktop\LoginRegisterApp\obj\Debug\net48\LoginRegisterApp.exe
+C:\Users\deleo\Desktop\LoginRegisterApp\obj\Debug\net48\LoginRegisterApp.pdb
